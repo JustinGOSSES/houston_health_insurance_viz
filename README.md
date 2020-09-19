@@ -40,6 +40,11 @@ https://public.tableau.com/views/HarrisCountyHealthInsuranceCoveragev1/census_no
 IN PROGRESS
 
 
+Possible next steps....
+- Make bar chart visualization of health insurance coverage type that can be pop-ups on the map.
+- Bring in other demographic data that can be found on the census tract block group level. 
+- Make bar chart / pie charts to show to coverage varies both at small & city-wide level against racial and other demographic information.
+
 ## Related Text Context
 
 tbd
