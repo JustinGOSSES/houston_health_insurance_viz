@@ -33,9 +33,11 @@ I've quickly thrown these into tablea public and merged the two data sources on 
 
 I then could start to build data visualizations in tableau with the data.
 
+#### Data Visualization Draft live on Tableau Public
+https://public.tableau.com/views/HarrisCountyHealthInsuranceCoveragev1/census_no_health_coverage_harris_county?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 
-tbd
+IN PROGRESS
 
 
 ## Related Text Context
